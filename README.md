@@ -7,14 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-==============================================================================
+
 ## Cara Menjalankan Aplikasi. 
 
 - Masukan folder yang berada pada GitHub kedalam folder htdocs.
 - Buka project tersebut pada Vidual Studio Code.
 - Tuliskan "php artisan serve" pada terminal Visual Studio Code project tersebut.
 
-==============================================================================
+## File ini kehilangan folder 'node_modules' dan folder 'vendor'
 
 
 
