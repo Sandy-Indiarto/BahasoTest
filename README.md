@@ -14,7 +14,7 @@
 - Buka project tersebut pada Vidual Studio Code.
 - Tuliskan "php artisan serve" pada terminal Visual Studio Code project tersebut.
 
-## File ini kehilangan folder 'node_modules' dan folder 'vendor'
+### File ini kehilangan folder 'node_modules' dan folder 'vendor'
 
 
 
